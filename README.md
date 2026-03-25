@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+### 👨‍🎓 About Me<br><br>Hi, I'm **Utsho Roy** 👋<br>A **CSE student at Bangladesh University of Business and Technology (BUBT)** 🇧🇩<br><br>* 🎓 Currently studying **Computer Science & Engineering (CSE)**<br><br>* 💻 Learning and building projects with **Java** and **Django**<br><br>* ⚡ Working on real-world projects like:<br><br> * 📝 **BlogHub – Django Blog Website**<br>    → Full-featured blog platform with **authentication, post management, comments, likes, and user profiles**<br><br>  * ✅ **TaskFlow – Django Todo App**<br>    → Task management system with **priority filtering, tags, and dynamic dashboard**<br><br>  * 💰 **Smart Expense Tracker (Flask + MongoDB)**<br>    → Personal finance tracker with **income/expense management and budgeting system**<br><br>  * 💊 **Medicine Tracker & Reminder (Android - Java)**<br>    → Mobile app for **medicine tracking and reminder system**<br><br>* 🎮 Also building fun projects like **Java games** (Snake, Flappy Bird, Tic-Tac-Toe)<br><br>* 📊 Interested in **data visualization, charts & PDF reports**<br><br>* 🚀 Currently improving skills in:<br><br>  * Django (Beginner → Advanced)<br>  * Django REST Framework (REST APIs)<br><br>* 🎯 Goal: Become a **Full-Stack Developer**<br><br>---<br><br>### 🧠 Skills<br><br>* **Languages:** Python, Java, C, C++<br>* **Frameworks:** Django, Flask<br>* **Database:** SQLite, Firebase, MongoDB, SQL<br>* **Tools:** Git, GitHub, IntelliJ IDEA<br>* **Other:** Java Swing, REST API, PDF Generation, Charts<br><br>---<br><br>### 📌 Interests<br><br>* 💡 Problem Solving<br>* 📈 Building real-life applications<br>* 🎮 Game development<br><br>---<br><br>### 📫 Connect with Me<br><br>* GitHub: https://github.com/utsho261<br>* Gmail: utshoroy5@gmail.com
 
-<!--
-**utsho261/utsho261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/UtshoRoy8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utshoroy5@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=utsho261&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=utsho261&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsho261&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=utsho261&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
