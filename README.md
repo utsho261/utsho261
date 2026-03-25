@@ -19,8 +19,7 @@ A CSE student at **Bangladesh University of Business and Technology (BUBT)** �
   - 💊 **Medicine Tracker & Reminder (Android - Java)**  
     → Mobile app for medicine tracking and reminder system  
 
-- 🎮 Also building fun projects like **Java games**  
-  (Snake, Flappy Bird, Tic-Tac-Toe)  
+- 🎮 Also building fun projects like **Java games** (Snake, Flappy Bird, Tic-Tac-Toe)  
 
 - 📊 Interested in **data visualization, charts & PDF reports**  
 
