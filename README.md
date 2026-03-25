@@ -1,4 +1,3 @@
-# 💫 About Me
 ## 👨‍🎓 About Me
 Hi, I'm **Utsho Roy** 👋  
 A CSE student at **Bangladesh University of Business and Technology (BUBT)** 🇧🇩  
