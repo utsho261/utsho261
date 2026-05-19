@@ -49,6 +49,7 @@ A CSE student at **Bangladesh University of Business and Technology (BUBT)** �
 
 ## 📫 Connect with Me
 - 🐙 GitHub: https://github.com/utsho261  
+- 💼 Portfolio: https://utsho261.github.io/
 - 📧 Gmail: utshoroy5@gmail.com  
 
 ## 🌐 Socials:
