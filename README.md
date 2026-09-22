@@ -1,61 +1,141 @@
-## 👨‍🎓 About Me
-Hi, I'm **Utsho Roy** 👋  
-A CSE student at **Bangladesh University of Business and Technology (BUBT)** 🇧🇩  
+<div align="center">
 
-- 🎓 Currently studying **Computer Science & Engineering (CSE)**  
-- 💻 Learning and building projects with **Java** and **Django**  
+  <!-- Cinematic Animated Typing Header -->
+  <a href="https://utsho261.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi,+I'm+Utsho+Roy+👋;Backend+%26+API+Engineer;Python+%26+Django+Specialist;Native+Android+Developer;154%2B+Codeforces+Problem+Solver;Creator+of+CV+Studio+%26+Town+Crier+BD" alt="Typing Banner" />
+  </a>
 
-- ⚡ Working on real-world projects like:
+  <p align="center">
+    ⚡ <b>I CRAFT BACKEND ARCHITECTURES & NATIVE ANDROID APPS</b> ⚡<br/>
+    🎓 <b>CSE Student @ BUBT</b> 📍 <b>Dhaka, Bangladesh</b>
+  </p>
 
-  - 📝 **BlogHub – Django Blog Website**  
-    → Full-featured blog platform with authentication, post management, comments, likes, and user profiles  
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://utsho261.github.io/"><img src="https://img.shields.io/badge/Cinematic_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" alt="Portfolio" /></a>
+    <a href="https://utsho261.github.io/cv-builder/"><img src="https://img.shields.io/badge/Live_App-CV_Studio-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="CV Studio" /></a>
+    <a href="https://linkedin.com/in/utshoroy261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:utshoroy5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://codeforces.com/profile/UtshoRoy"><img src="https://img.shields.io/badge/Codeforces-154%2B_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  </p>
 
-  - ✅ **TaskFlow – Django Todo App**  
-    → Task management system with priority filtering, tags, and dynamic dashboard  
-
-  - 💰 **Smart Expense Tracker (Flask + MongoDB)**  
-    → Personal finance tracker with income/expense management and budgeting system  
-
-  - 💊 **Medicine Tracker & Reminder (Android - Java)**  
-    → Mobile app for medicine tracking and reminder system  
-
-- 🎮 Also building fun projects like **Java games** (Snake, Flappy Bird, Tic-Tac-Toe)  
-
-- 📊 Interested in **data visualization, charts & PDF reports**  
-
-- 🚀 Currently improving skills in:
-  - Django (Beginner → Advanced)  
-  - Django REST Framework (REST APIs)
-    
-- 🎯 Goal: Become a **Full-Stack Developer**  
-
-## 🧠 Skills
-- 💻 **Languages:**  
-  Python 🐍 | Java ☕ | C 🔹 | C++ 🔸  
-- ⚙️ **Frameworks:**  
-  Django 🌿 | Flask 🍶  
-- 🗄️ **Database:**  
-  SQLite 🪶 | Firebase 🔥 | MongoDB 🍃 | SQL 🗃️  
-- 🛠️ **Tools:**  
-  Git 🔧 | GitHub 🐙 | IntelliJ IDEA 💡  
-- 📊 **Other:**  
-  Java Swing 🖥️ | REST API 🔗 | PDF Generation 📄 | Charts 📈  
-
-## 📌 Interests
-- 💡 Problem Solving  
-- 📈 Building real-life applications  
-- 🎮 Game development  
-
-
-## 📫 Connect with Me
-- 🐙 GitHub: https://github.com/utsho261  
-- 💼 Portfolio: https://utsho261.github.io/
-- 📧 Gmail: utshoroy5@gmail.com  
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utsho261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utshoroy5@gmail.com) 
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utsho261&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Executive Summary
+
+Backend & API Engineer with a solid Computer Science background from **Bangladesh University of Business and Technology (BUBT)**. 
+
+- 🚀 **Specialization:** High-throughput **Django REST Framework (DRF)** APIs, relational database schema optimization (PostgreSQL, MySQL), and distributed asynchronous task queues (**Celery + Redis**).
+- 📱 **Mobile Engineering:** Offline-first **Native Android (Java)** apps utilizing Google Maps SDK, Firebase Realtime Database, and custom notification channels.
+- 💡 **Security & Architecture:** Stateless SimpleJWT authentication, 4-tier Role-Based Access Control (RBAC), and B-tree index tuning cutting database latency by **35%**.
+- 🧠 **Problem Solving:** Solved **154+ algorithmic challenges** on Codeforces, applying strong DSA and clean OOP design principles.
+
+---
+
+### 🌟 Featured Flagship Projects
+
+| Project | Tech Stack | Key Architectural Highlights | Live Demo & Code |
+| :--- | :--- | :--- | :---: |
+| 📄 **CV Studio** *(Web Flagship)* | React 19, TypeScript, Tailwind v4, Vite | 100% Free ATS Resume Builder with 24 publication-grade templates, real-time ATS scoring & strict 1-page A4 PDF export. | [🌐 Live Site](https://utsho261.github.io/cv-builder/) • [💻 Repo](https://github.com/utsho261/cv-builder) |
+| 🎓 **CampusConnect** *(BUBT Capstone)* | Django 5.1, DRF, PostgreSQL, React 19 | Decoupled campus academic platform backend with SimpleJWT, 4-Tier RBAC, and B-tree indexing that slashed query latency by 35%. | [🌐 Live Site]([https://github.com/utsho261/CampusConnect](https://campusconnect-ruddy-xi.vercel.app/) |
+| 🚨 **Town Crier BD** *(Mobile Flagship)* | Native Android (Java), Google Maps SDK, Firebase | Hyperlocal emergency broadcast mobile app with real-time geospatial radar pinning, incident clustering, and instant push alerts. | [💻 Mobile Repo](https://github.com/utsho261/TownCrierBD) |
+| 🏥 **Hospital Management System** | Python, Django 5, DRF, Celery, Redis | Enterprise healthcare REST API featuring nested multi-drug prescription serializers, 4-Tier RBAC & asynchronous billing calculation pipelines. | [💻 Repo](https://github.com/utsho261/hospital_management) |
+| 💰 **Smart Expense Tracker** | Flask, MongoDB, Chart.js, JWT | Personal finance budget manager & REST API featuring automated spending category analytics and visual trend charts. | [💻 Repo](https://github.com/utsho261/smart-expense-tracker) |
+
+---
+
+### 🛠️ Technical Arsenal & Skills
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Backend & API Engineering</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </p>
+      <h4>🗄️ Databases & Optimization</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Frontend Development</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Native_Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=google-maps&logoColor=white" alt="Google Maps" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+      <h4>🔧 DevOps, Tools & Testing</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Docker_Basics-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+        <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Real-time Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utsho261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utsho's Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsho261&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsho261&theme=tokyonight&hide_border=true" alt="Utsho's Streak" />
+</div>
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **Bachelor of Science in CSE** — Bangladesh University of Business and Technology (BUBT) • 
+- 📜 **Full Stack Web Development (Python, Django & React)** — Ostad Platform
+- 🏆 **154+ Algorithmic Problems Solved** — Codeforces (@UtshoRoy)
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+I am actively looking for opportunities in **Backend Engineering (Python/Django)** and **Mobile Development (Android)**.
+
+<div align="center">
+  <a href="https://utsho261.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=D4AF37" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/utshoroy261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:utshoroy5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://facebook.com/utsho261"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=utsho261&icon=5&color=0" alt="Profile Views" />
+</div>
