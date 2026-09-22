@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Cinematic Animated Typing Header -->
+  <!-- Cinematic Animated Typing Header (100% Fixed & Working) -->
   <a href="https://utsho261.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi,+I'm+Utsho+Roy+👋;Backend+%26+API+Engineer;Python+%26+Django+Specialist;Native+Android+Developer;154%2B+Codeforces+Problem+Solver;Creator+of+CV+Studio+%26+Town+Crier+BD" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Hi,+I+am+Utsho+Roy;Backend+and+API+Engineer;Python+and+Django+Specialist;Native+Android+Developer;154%2B+Codeforces+Problem+Solver;Creator+of+CV+Studio" alt="Typing Banner" />
   </a>
 
   <p align="center">
     ⚡ <b>I CRAFT BACKEND ARCHITECTURES & NATIVE ANDROID APPS</b> ⚡<br/>
-    🎓 <b>CSE Student @ BUBT</b> 📍 <b>Dhaka, Bangladesh</b>
+    🎓 <b>CSE Student @ BUBT</b> • 📍 <b>Dhaka, Bangladesh</b>
   </p>
 
   <!-- Quick Badges -->
@@ -39,8 +39,8 @@ Backend & API Engineer with a solid Computer Science background from **Banglades
 | Project | Tech Stack | Key Architectural Highlights | Live Demo & Code |
 | :--- | :--- | :--- | :---: |
 | 📄 **CV Studio** *(Web Flagship)* | React 19, TypeScript, Tailwind v4, Vite | 100% Free ATS Resume Builder with 24 publication-grade templates, real-time ATS scoring & strict 1-page A4 PDF export. | [🌐 Live Site](https://utsho261.github.io/cv-builder/) • [💻 Repo](https://github.com/utsho261/cv-builder) |
-| 🎓 **CampusConnect** *(BUBT Capstone)* | Django 5.1, DRF, PostgreSQL, React 19 | Decoupled campus academic platform backend with SimpleJWT, 4-Tier RBAC, and B-tree indexing that slashed query latency by 35%. | [🌐 Live Site]([https://github.com/utsho261/CampusConnect](https://campusconnect-ruddy-xi.vercel.app/) |
-| 🚨 **Town Crier BD** *(Mobile Flagship)* | Native Android (Java), Google Maps SDK, Firebase | Hyperlocal emergency broadcast mobile app with real-time geospatial radar pinning, incident clustering, and instant push alerts. | [💻 Mobile Repo](https://github.com/utsho261/TownCrierBD) |
+| 🎓 **CampusConnect** *(BUBT Capstone)* | Django 5.1, DRF, PostgreSQL, React 19 | Decoupled campus academic platform backend with SimpleJWT, 4-Tier RBAC, and B-tree indexing that slashed query latency by 35%. | [🌐 Live Site](https://campusconnect-ruddy-xi.vercel.app/) • [💻 Repo](https://github.com/utsho261/CampusConnect) |
+| 🚨 **Town Crier BD** *(Mobile Flagship)* | Native Android (Java), Google Maps SDK, Firebase | Hyperlocal emergency broadcast mobile app with real-time geospatial radar pinning, incident clustering, and instant push alerts. | [💻 Repo](https://github.com/utsho261/TownCrierBD) |
 | 🏥 **Hospital Management System** | Python, Django 5, DRF, Celery, Redis | Enterprise healthcare REST API featuring nested multi-drug prescription serializers, 4-Tier RBAC & asynchronous billing calculation pipelines. | [💻 Repo](https://github.com/utsho261/hospital_management) |
 | 💰 **Smart Expense Tracker** | Flask, MongoDB, Chart.js, JWT | Personal finance budget manager & REST API featuring automated spending category analytics and visual trend charts. | [💻 Repo](https://github.com/utsho261/smart-expense-tracker) |
 
@@ -96,25 +96,28 @@ Backend & API Engineer with a solid Computer Science background from **Banglades
 
 ---
 
-### 📊 GitHub Activity & Real-time Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsho261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utsho's Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsho261&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
+  <!-- 100% Active Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=utsho261&theme=tokyonight&hide_border=true" alt="Utsho's Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsho261&theme=tokyonight&hide_border=true" alt="Utsho's Streak" />
+  <img src="https://img.shields.io/github/followers/utsho261?style=for-the-badge&logo=github&color=2563EB" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/utsho261?style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Codeforces-154%2B_Problems-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </div>
 
 ---
 
 ### 🎓 Education & Certifications
 
-- 🎓 **Bachelor of Science in CSE** — Bangladesh University of Business and Technology (BUBT) • 
+- 🎓 **Bachelor of Science in CSE** — Bangladesh University of Business and Technology (BUBT)
 - 📜 **Full Stack Web Development (Python, Django & React)** — Ostad Platform
 - 🏆 **154+ Algorithmic Problems Solved** — Codeforces (@UtshoRoy)
 
@@ -122,7 +125,7 @@ Backend & API Engineer with a solid Computer Science background from **Banglades
 
 ### 🤝 Let's Connect & Collaborate!
 
-I am actively looking for opportunities in **Backend Engineering (Python/Django)** and **Mobile Development (Android)**.
+I am actively open to opportunities in **Backend Engineering (Python/Django)** and **Mobile Development (Android)**.
 
 <div align="center">
   <a href="https://utsho261.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=D4AF37" alt="Portfolio" /></a>
@@ -137,5 +140,6 @@ I am actively looking for opportunities in **Backend Engineering (Python/Django)
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=utsho261&icon=5&color=0" alt="Profile Views" />
+  <!-- 100% Reliable Komarev Profile Counter -->
+  <img src="https://komarev.com/ghpvc/?username=utsho261&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
 </div>
